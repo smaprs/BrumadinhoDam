@@ -1,7 +1,8 @@
 # BrumadinhoDam
-3D DEM (digital elevation model) in orbital view of the Brumadinho Dam Collapse happened at 2019-01-25  
+3D DEM (digital elevation model) in orbital view of the Brumadinho Dam Collapse happened at 2019-01-25.  
 See and browse it at:  
 https://smaprs.github.io/BrumadinhoDam/   
+ ![3D Brumadinho Dam](https://i.imgur.com/L7nPH6l.png)  
 Made in QGIS using:  
 -Qgis2threejs plugin for 3D digital elevation model processing - https://github.com/minorua/Qgis2threejs;  
 -Contour lines made with Raster plugin from GdalTools;  
