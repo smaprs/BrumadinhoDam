@@ -9,4 +9,6 @@ Made in QGIS using:
 -Image: Courtesy of AIRBUS Defense and Space and ENGESAT Imagens de Satélites  
 -SRTM: Courtesy NASA/USGS (NASA EOSDIS Land Processes Distributed Active Archive Center (LP DAAC), USGS/Earth Resources Observation and Science (EROS) Center, Sioux Falls, South Dakota) at https://gdex.cr.usgs.gov/gdex/  
 -Map data (points and lines) &copy; OpenStreetMap Contributors.  
-This derived work made by me (OSMuser: http://www.openstreetmap.org/user/smaprs)  is free to copy and share under CC-BY-SA and only for free educational purposes.
+  
+This derived work made by me (OSMuser: http://www.openstreetmap.org/user/smaprs)  is free to copy and share under CC-BY-SA.  
+// Este material é liberado para qualquer uso, por este autor, sob licença CC-BY-SA Creative Commons, isto é: para copiar, compartilhar, alterar em novos trabalhos derivados, desde que citada a fonte e garantido livre compartilhamento sob as mesmas condições.
